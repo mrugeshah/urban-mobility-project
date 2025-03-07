@@ -15,10 +15,11 @@ Implemented a robust DevOps pipeline for an automobile platform that provides ve
 - Collaborated with development and operations teams to enhance DevSecOps practices and improve deployment frequency.
 
 ## Tools & Technologies Used
-- **Version Control:** Git, GitHub  
-- **CI/CD:** Jenkins  
-- **Containerization & Orchestration:** Docker, Kubernetes (EKS)  
-- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation  
-- **Cloud Platforms:** AWS (EC2, S3, SES, RDS, Lambda, IAM, CloudWatch)  
-- **Monitoring & Logging:** Prometheus, Grafana, Cloudwatch
-- **Security & Compliance:** AWS Security Hub
+- **Version Control:** BitBucket  
+- **CI/CD:** BitBucket Pipeline, Azure DevOps  
+- **Containerization & Orchestration:** Docker, AWS EKS  
+- **Infrastructure as Code (IaC):** AWS CloudFormation  
+- **Cloud Platforms:** Azure & AWS  
+- **Monitoring & Logging:** Cloudwatch, Prometheus, Grafana
+- **Security & Compliance:** Datadog, Sonarqube, AWS Security Hub
+- **Scripting:** Bash, Powershell
