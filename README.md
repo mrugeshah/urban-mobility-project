@@ -1,4 +1,4 @@
-# AWS & DevOps Implementation for an Automobile Platform
+# AWS, Azure & DevOps Implementation for an Urban Mobility Platform
 
 ## Project Description
 Implemented a robust DevOps pipeline for an automobile platform that provides vehicle listings, user reviews, dealer integrations, and vehicle data. The objective was to enhance deployment automation, improve system reliability, and enable seamless CI/CD workflows to support continuous software releases.
