@@ -1,7 +1,7 @@
 # AWS, Azure & DevOps Implementation for an Urban Mobility Platform
 
 ## Project Description
-Implemented a robust DevOps pipeline for an automobile platform that provides vehicle listings, user reviews, dealer integrations, and vehicle data. The objective was to enhance deployment automation, improve system reliability, and enable seamless CI/CD workflows to support continuous software releases.
+Implemented a robust DevOps pipeline for parking permits and violations that provides the management of Car Parking and Private Parking permits and violations. The objective was to enhance deployment automation, improve system reliability, and enable seamless CI/CD workflows to support continuous software releases.
 
 ## Roles & Responsibilities
 - Designed and implemented CI/CD pipelines using **BitBucket** and **Azure DevOps** to automate build, test, and deployment processes.
